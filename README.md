@@ -1,1 +1,4 @@
-# demographics-backend-second
+# backend-demo-graphics 
+npm install
+
+npm start
